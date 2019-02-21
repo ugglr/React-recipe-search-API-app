@@ -1,3 +1,8 @@
+<h1>React Recipe Search from API App</h1>
+
+CSS is not my own. 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
