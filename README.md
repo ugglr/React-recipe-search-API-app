@@ -1,6 +1,6 @@
 <h1>React Recipe Search from API App</h1>
 
-CSS is not my own. 
+CSS is not my own, the purpose of this project is to learn more about react. 
 
 
 ## Available Scripts
