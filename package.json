@@ -1,7 +1,7 @@
 {
   "name": "recipe-search",
   "version": "0.1.0",
-  "homepage": "https://www.carlw.se/portfolioSites/react-recipe-app/",
+  "homepage": ".",
   "private": true,
   "dependencies": {
     "bootstrap": "^4.3.1",

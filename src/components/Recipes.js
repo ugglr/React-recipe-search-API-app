@@ -32,7 +32,9 @@ const Recipes = props => (
                 <button className="recipe_buttons">
                   <Link
                     to={{
-                      pathname: `/recipe/${recipe.recipe_id}`,
+                      pathname: `${process.env.PUBLIC_URL}/recipe/${
+                        recipe.recipe_id
+                      }`,
                       state: { recipe: recipe.title }
                     }}
                   >

@@ -40,7 +40,7 @@ class Recipe extends React.Component {
               </span>
             </p>
             <button className="active-recipe__button">
-              <Link to="/">Go Home</Link>
+              <Link to={`${process.env.PUBLIC_URL}/`}>Go Home</Link>
             </button>
           </div>
         )}
